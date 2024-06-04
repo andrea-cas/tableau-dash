@@ -16,6 +16,8 @@ The data used in this project comes from three sources:
 - `Delay_Type.csv`: Provides information about the types of delays.
 - `Airports`: Includes information about delays for cities and airports.
 
+You can find these datasets in the `data` directory of this repository.
+
 ## Visualizations
 
 - **Bar Chart: Total Flight Delay Time by Airline** - This chart shows the total delay time in minutes for each airline, showing worst performances first.
