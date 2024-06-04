@@ -2,7 +2,7 @@
 
 ## Dashboard Link
 
-Explore the dashboard [here](https://andrea-cas.github.io/tableau-dashboards/).
+Explore the dashboard [here](https://andrea-cas.github.io/tableau-dash/).
 
 ## Project Description
 
@@ -30,7 +30,7 @@ You can find these datasets in the `data` directory of this repository.
 
 You can interact with the visualizations and explore the data in depth:
 
-1. Open the [dashboard link](https://andrea-cas.github.io/tableau-dashboards/) provided in this README file.
+1. Open the [dashboard link](https://andrea-cas.github.io/tableau-dash/) provided in this README file.
 2. Interact with the visualizations:
    - **Hover** over different charts to see full detailed information.
    - **Map Interaction**: You can zoom in, zoom out, and search for and select specific geographical locations on the map for more granular details.
